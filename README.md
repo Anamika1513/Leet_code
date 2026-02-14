@@ -1,0 +1,20 @@
+# 🚀 LeetCode Solutions
+
+This repository contains my solutions to LeetCode problems.
+I am using this repo to track my Data Structures and Algorithms practice.
+
+## 👩‍💻 Language
+- C++
+
+## 📊 Progress
+- Problems solved: Updating...
+- Practicing daily
+
+## 📂 Structure
+Each file is named according to the problem title on LeetCode.
+
+## 🎯 Goal
+To improve problem-solving skills and prepare for coding interviews.
+
+---
+⭐ Thanks for visiting!
