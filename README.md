@@ -44,6 +44,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Anamika1513/Leet_code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Anamika1513/Leet_code/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Anamika1513/Leet_code/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Anamika1513/Leet_code/tree/master/0231-power-of-two) |
@@ -96,6 +97,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Anamika1513/Leet_code/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Anamika1513/Leet_code/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
