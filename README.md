@@ -18,3 +18,15 @@ To improve problem-solving skills and prepare for coding interviews.
 
 ---
 ⭐ Thanks for visiting!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Anamika1513/Leet_code/tree/master/0724-find-pivot-index) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Anamika1513/Leet_code/tree/master/0724-find-pivot-index) |
+<!---LeetCode Topics End-->
