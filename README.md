@@ -45,6 +45,7 @@ To improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Anamika1513/Leet_code/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Anamika1513/Leet_code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anamika1513/Leet_code/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -96,5 +97,10 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Anamika1513/Leet_code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anamika1513/Leet_code/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Anamika1513/Leet_code/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
