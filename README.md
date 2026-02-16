@@ -24,6 +24,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anamika1513/Leet_code/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/Anamika1513/Leet_code/tree/master/0189-rotate-array) |
 | [0724-find-pivot-index](https://github.com/Anamika1513/Leet_code/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0977-squares-of-a-sorted-array) |
@@ -49,4 +50,8 @@ To improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0977-squares-of-a-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Anamika1513/Leet_code/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
