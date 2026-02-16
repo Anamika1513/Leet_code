@@ -26,6 +26,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- |
 | [0189-rotate-array](https://github.com/Anamika1513/Leet_code/tree/master/0189-rotate-array) |
 | [0724-find-pivot-index](https://github.com/Anamika1513/Leet_code/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -39,8 +40,13 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- |
 | [0189-rotate-array](https://github.com/Anamika1513/Leet_code/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Anamika1513/Leet_code/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Anamika1513/Leet_code/tree/master/0344-reverse-string) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
