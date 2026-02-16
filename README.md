@@ -28,6 +28,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0189-rotate-array](https://github.com/Anamika1513/Leet_code/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anamika1513/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Anamika1513/Leet_code/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Anamika1513/Leet_code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Anamika1513/Leet_code/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Anamika1513/Leet_code/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Anamika1513/Leet_code/tree/master/0905-sort-array-by-parity) |
@@ -44,6 +45,7 @@ To improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Anamika1513/Leet_code/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Anamika1513/Leet_code/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +63,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anamika1513/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Anamika1513/Leet_code/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Anamika1513/Leet_code/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/Anamika1513/Leet_code/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -68,6 +71,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- |
 | [0001-two-sum](https://github.com/Anamika1513/Leet_code/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Anamika1513/Leet_code/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Anamika1513/Leet_code/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -85,4 +89,12 @@ To improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anamika1513/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Anamika1513/Leet_code/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Anamika1513/Leet_code/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
