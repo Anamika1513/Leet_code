@@ -46,6 +46,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- |
 | [0189-rotate-array](https://github.com/Anamika1513/Leet_code/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Anamika1513/Leet_code/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Anamika1513/Leet_code/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Anamika1513/Leet_code/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -76,6 +77,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Anamika1513/Leet_code/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/Anamika1513/Leet_code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anamika1513/Leet_code/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
@@ -103,4 +105,8 @@ To improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Anamika1513/Leet_code/tree/master/0231-power-of-two) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Anamika1513/Leet_code/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
