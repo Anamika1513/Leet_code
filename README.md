@@ -26,6 +26,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- |
 | [0001-two-sum](https://github.com/Anamika1513/Leet_code/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/Anamika1513/Leet_code/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Anamika1513/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Anamika1513/Leet_code/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Anamika1513/Leet_code/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Anamika1513/Leet_code/tree/master/0724-find-pivot-index) |
@@ -58,6 +59,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Anamika1513/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Anamika1513/Leet_code/tree/master/0217-contains-duplicate) |
 | [0905-sort-array-by-parity](https://github.com/Anamika1513/Leet_code/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0977-squares-of-a-sorted-array) |
@@ -71,4 +73,16 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Anamika1513/Leet_code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anamika1513/Leet_code/tree/master/1929-concatenation-of-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Anamika1513/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Anamika1513/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Anamika1513/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
