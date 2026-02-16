@@ -51,6 +51,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0069-sqrtx](https://github.com/Anamika1513/Leet_code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Anamika1513/Leet_code/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Anamika1513/Leet_code/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Anamika1513/Leet_code/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Anamika1513/Leet_code/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Anamika1513/Leet_code/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Anamika1513/Leet_code/tree/master/0263-ugly-number) |
@@ -60,6 +61,7 @@ To improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Anamika1513/Leet_code/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Anamika1513/Leet_code/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Anamika1513/Leet_code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Anamika1513/Leet_code/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/Anamika1513/Leet_code/tree/master/0905-sort-array-by-parity) |
@@ -80,6 +82,7 @@ To improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anamika1513/Leet_code/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Anamika1513/Leet_code/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Anamika1513/Leet_code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Anamika1513/Leet_code/tree/master/0268-missing-number) |
 ## Simulation
