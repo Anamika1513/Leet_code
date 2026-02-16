@@ -38,4 +38,9 @@ To improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Anamika1513/Leet_code/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/Anamika1513/Leet_code/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Anamika1513/Leet_code/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
