@@ -59,6 +59,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0258-add-digits](https://github.com/Anamika1513/Leet_code/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Anamika1513/Leet_code/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Anamika1513/Leet_code/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Anamika1513/Leet_code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anamika1513/Leet_code/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anamika1513/Leet_code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/Anamika1513/Leet_code/tree/master/1688-count-of-matches-in-tournament) |
@@ -130,6 +131,7 @@ To improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Anamika1513/Leet_code/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Anamika1513/Leet_code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anamika1513/Leet_code/tree/master/0342-power-of-four) |
 ## Number Theory
 |  |
