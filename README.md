@@ -30,6 +30,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0066-plus-one](https://github.com/Anamika1513/Leet_code/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Anamika1513/Leet_code/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Anamika1513/Leet_code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Anamika1513/Leet_code/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anamika1513/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Anamika1513/Leet_code/tree/master/0217-contains-duplicate) |
@@ -81,6 +82,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Anamika1513/Leet_code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anamika1513/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Anamika1513/Leet_code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Anamika1513/Leet_code/tree/master/0268-missing-number) |
@@ -91,6 +93,7 @@ To improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anamika1513/Leet_code/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Anamika1513/Leet_code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Anamika1513/Leet_code/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Anamika1513/Leet_code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Anamika1513/Leet_code/tree/master/0268-missing-number) |
@@ -105,6 +108,7 @@ To improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anamika1513/Leet_code/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Anamika1513/Leet_code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anamika1513/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Anamika1513/Leet_code/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -173,5 +177,6 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Anamika1513/Leet_code/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Anamika1513/Leet_code/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
