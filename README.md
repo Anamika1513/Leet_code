@@ -26,6 +26,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- |
 | [0001-two-sum](https://github.com/Anamika1513/Leet_code/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Anamika1513/Leet_code/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Anamika1513/Leet_code/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Anamika1513/Leet_code/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Anamika1513/Leet_code/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -103,6 +104,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Anamika1513/Leet_code/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anamika1513/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Anamika1513/Leet_code/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -141,6 +143,7 @@ To improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anamika1513/Leet_code/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Anamika1513/Leet_code/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Anamika1513/Leet_code/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Anamika1513/Leet_code/tree/master/0118-pascals-triangle) |
 ## Memoization
