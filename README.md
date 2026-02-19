@@ -26,6 +26,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- |
 | [0001-two-sum](https://github.com/Anamika1513/Leet_code/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Anamika1513/Leet_code/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Anamika1513/Leet_code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Anamika1513/Leet_code/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Anamika1513/Leet_code/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Anamika1513/Leet_code/tree/master/0118-pascals-triangle) |
@@ -54,6 +55,7 @@ To improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Anamika1513/Leet_code/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Anamika1513/Leet_code/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Anamika1513/Leet_code/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Anamika1513/Leet_code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Anamika1513/Leet_code/tree/master/0070-climbing-stairs) |
@@ -186,5 +188,6 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Anamika1513/Leet_code/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/Anamika1513/Leet_code/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
