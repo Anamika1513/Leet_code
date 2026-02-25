@@ -37,6 +37,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0217-contains-duplicate](https://github.com/Anamika1513/Leet_code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Anamika1513/Leet_code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Anamika1513/Leet_code/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Anamika1513/Leet_code/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Anamika1513/Leet_code/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Anamika1513/Leet_code/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Anamika1513/Leet_code/tree/master/0867-transpose-matrix) |
