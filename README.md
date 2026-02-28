@@ -29,6 +29,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0048-rotate-image](https://github.com/Anamika1513/Leet_code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Anamika1513/Leet_code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Anamika1513/Leet_code/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Anamika1513/Leet_code/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Anamika1513/Leet_code/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Anamika1513/Leet_code/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -115,6 +116,7 @@ To improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Anamika1513/Leet_code/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Anamika1513/Leet_code/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/Anamika1513/Leet_code/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/Anamika1513/Leet_code/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/Anamika1513/Leet_code/tree/master/1688-count-of-matches-in-tournament) |
@@ -202,5 +204,6 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- |
 | [0048-rotate-image](https://github.com/Anamika1513/Leet_code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Anamika1513/Leet_code/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Anamika1513/Leet_code/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Anamika1513/Leet_code/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
