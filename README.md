@@ -74,6 +74,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0268-missing-number](https://github.com/Anamika1513/Leet_code/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Anamika1513/Leet_code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anamika1513/Leet_code/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Anamika1513/Leet_code/tree/master/0367-valid-perfect-square) |
 | [0492-construct-the-rectangle](https://github.com/Anamika1513/Leet_code/tree/master/0492-construct-the-rectangle) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anamika1513/Leet_code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/Anamika1513/Leet_code/tree/master/1688-count-of-matches-in-tournament) |
@@ -145,6 +146,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0069-sqrtx](https://github.com/Anamika1513/Leet_code/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Anamika1513/Leet_code/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Anamika1513/Leet_code/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Anamika1513/Leet_code/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
