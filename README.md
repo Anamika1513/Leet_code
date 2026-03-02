@@ -76,6 +76,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0342-power-of-four](https://github.com/Anamika1513/Leet_code/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Anamika1513/Leet_code/tree/master/0367-valid-perfect-square) |
 | [0492-construct-the-rectangle](https://github.com/Anamika1513/Leet_code/tree/master/0492-construct-the-rectangle) |
+| [0509-fibonacci-number](https://github.com/Anamika1513/Leet_code/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anamika1513/Leet_code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/Anamika1513/Leet_code/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/Anamika1513/Leet_code/tree/master/2235-add-two-integers) |
@@ -161,6 +162,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0231-power-of-two](https://github.com/Anamika1513/Leet_code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Anamika1513/Leet_code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anamika1513/Leet_code/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/Anamika1513/Leet_code/tree/master/0509-fibonacci-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -172,10 +174,12 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0053-maximum-subarray](https://github.com/Anamika1513/Leet_code/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Anamika1513/Leet_code/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Anamika1513/Leet_code/tree/master/0118-pascals-triangle) |
+| [0509-fibonacci-number](https://github.com/Anamika1513/Leet_code/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anamika1513/Leet_code/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/Anamika1513/Leet_code/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
