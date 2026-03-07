@@ -27,6 +27,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0001-two-sum](https://github.com/Anamika1513/Leet_code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anamika1513/Leet_code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Anamika1513/Leet_code/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Anamika1513/Leet_code/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Anamika1513/Leet_code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Anamika1513/Leet_code/tree/master/0053-maximum-subarray) |
@@ -151,6 +152,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anamika1513/Leet_code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Anamika1513/Leet_code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Anamika1513/Leet_code/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Anamika1513/Leet_code/tree/master/0268-missing-number) |
