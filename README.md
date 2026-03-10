@@ -26,6 +26,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- |
 | [0001-two-sum](https://github.com/Anamika1513/Leet_code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anamika1513/Leet_code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anamika1513/Leet_code/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anamika1513/Leet_code/tree/master/0035-search-insert-position) |
@@ -90,6 +91,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anamika1513/Leet_code/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Anamika1513/Leet_code/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Anamika1513/Leet_code/tree/master/0189-rotate-array) |
