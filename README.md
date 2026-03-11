@@ -36,6 +36,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0054-spiral-matrix](https://github.com/Anamika1513/Leet_code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Anamika1513/Leet_code/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Anamika1513/Leet_code/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Anamika1513/Leet_code/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Anamika1513/Leet_code/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Anamika1513/Leet_code/tree/master/0169-majority-element) |
@@ -94,6 +95,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anamika1513/Leet_code/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Anamika1513/Leet_code/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Anamika1513/Leet_code/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Anamika1513/Leet_code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Anamika1513/Leet_code/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Anamika1513/Leet_code/tree/master/0283-move-zeroes) |
@@ -107,6 +109,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Anamika1513/Leet_code/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Anamika1513/Leet_code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anamika1513/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Anamika1513/Leet_code/tree/master/0217-contains-duplicate) |
