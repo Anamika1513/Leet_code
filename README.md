@@ -88,6 +88,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0509-fibonacci-number](https://github.com/Anamika1513/Leet_code/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anamika1513/Leet_code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/Anamika1513/Leet_code/tree/master/1688-count-of-matches-in-tournament) |
+| [1925-count-square-sum-triples](https://github.com/Anamika1513/Leet_code/tree/master/1925-count-square-sum-triples) |
 | [2235-add-two-integers](https://github.com/Anamika1513/Leet_code/tree/master/2235-add-two-integers) |
 ## Two Pointers
 |  |
@@ -231,4 +232,8 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0054-spiral-matrix](https://github.com/Anamika1513/Leet_code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Anamika1513/Leet_code/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Anamika1513/Leet_code/tree/master/0867-transpose-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/Anamika1513/Leet_code/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
