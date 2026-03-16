@@ -36,6 +36,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0054-spiral-matrix](https://github.com/Anamika1513/Leet_code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Anamika1513/Leet_code/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Anamika1513/Leet_code/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Anamika1513/Leet_code/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Anamika1513/Leet_code/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Anamika1513/Leet_code/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -172,6 +173,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0033-search-in-rotated-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anamika1513/Leet_code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Anamika1513/Leet_code/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Anamika1513/Leet_code/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Anamika1513/Leet_code/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Anamika1513/Leet_code/tree/master/0367-valid-perfect-square) |
@@ -241,6 +243,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0048-rotate-image](https://github.com/Anamika1513/Leet_code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Anamika1513/Leet_code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Anamika1513/Leet_code/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/Anamika1513/Leet_code/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/Anamika1513/Leet_code/tree/master/0867-transpose-matrix) |
 ## Enumeration
 |  |
