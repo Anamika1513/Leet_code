@@ -49,6 +49,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0283-move-zeroes](https://github.com/Anamika1513/Leet_code/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Anamika1513/Leet_code/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Anamika1513/Leet_code/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anamika1513/Leet_code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Anamika1513/Leet_code/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Anamika1513/Leet_code/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Anamika1513/Leet_code/tree/master/0867-transpose-matrix) |
@@ -92,6 +93,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0415-add-strings](https://github.com/Anamika1513/Leet_code/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Anamika1513/Leet_code/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/Anamika1513/Leet_code/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anamika1513/Leet_code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anamika1513/Leet_code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Anamika1513/Leet_code/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/Anamika1513/Leet_code/tree/master/1688-count-of-matches-in-tournament) |
@@ -127,6 +129,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0217-contains-duplicate](https://github.com/Anamika1513/Leet_code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Anamika1513/Leet_code/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Anamika1513/Leet_code/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anamika1513/Leet_code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Anamika1513/Leet_code/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Anamika1513/Leet_code/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0977-squares-of-a-sorted-array) |
