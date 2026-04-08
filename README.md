@@ -117,6 +117,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Anamika1513/Leet_code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anamika1513/Leet_code/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Anamika1513/Leet_code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Anamika1513/Leet_code/tree/master/0415-add-strings) |
@@ -128,6 +129,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0169-majority-element](https://github.com/Anamika1513/Leet_code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anamika1513/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Anamika1513/Leet_code/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Anamika1513/Leet_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anamika1513/Leet_code/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Anamika1513/Leet_code/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anamika1513/Leet_code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -143,6 +145,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0169-majority-element](https://github.com/Anamika1513/Leet_code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Anamika1513/Leet_code/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Anamika1513/Leet_code/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Anamika1513/Leet_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anamika1513/Leet_code/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/Anamika1513/Leet_code/tree/master/1512-number-of-good-pairs) |
 ## Simulation
