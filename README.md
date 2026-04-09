@@ -26,6 +26,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- |
 | [0001-two-sum](https://github.com/Anamika1513/Leet_code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anamika1513/Leet_code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Anamika1513/Leet_code/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anamika1513/Leet_code/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0033-search-in-rotated-sorted-array) |
@@ -117,6 +118,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Anamika1513/Leet_code/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/Anamika1513/Leet_code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anamika1513/Leet_code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anamika1513/Leet_code/tree/master/0344-reverse-string) |
@@ -264,4 +266,8 @@ To improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Anamika1513/Leet_code/tree/master/1925-count-square-sum-triples) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Anamika1513/Leet_code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
