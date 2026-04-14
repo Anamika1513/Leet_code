@@ -50,6 +50,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0268-missing-number](https://github.com/Anamika1513/Leet_code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Anamika1513/Leet_code/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Anamika1513/Leet_code/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anamika1513/Leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Anamika1513/Leet_code/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anamika1513/Leet_code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Anamika1513/Leet_code/tree/master/0704-binary-search) |
@@ -151,6 +152,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0217-contains-duplicate](https://github.com/Anamika1513/Leet_code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anamika1513/Leet_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anamika1513/Leet_code/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anamika1513/Leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Anamika1513/Leet_code/tree/master/1512-number-of-good-pairs) |
 ## Simulation
 |  |
