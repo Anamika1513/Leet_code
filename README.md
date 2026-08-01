@@ -41,6 +41,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0075-sort-colors](https://github.com/Anamika1513/Leet_code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Anamika1513/Leet_code/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/Anamika1513/Leet_code/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Anamika1513/Leet_code/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Anamika1513/Leet_code/tree/master/0169-majority-element) |
@@ -202,6 +203,7 @@ To improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Anamika1513/Leet_code/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/Anamika1513/Leet_code/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Anamika1513/Leet_code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anamika1513/Leet_code/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Anamika1513/Leet_code/tree/master/0342-power-of-four) |
