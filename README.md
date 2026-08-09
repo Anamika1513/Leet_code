@@ -26,6 +26,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- |
 | [0001-two-sum](https://github.com/Anamika1513/Leet_code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anamika1513/Leet_code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Anamika1513/Leet_code/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Anamika1513/Leet_code/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anamika1513/Leet_code/tree/master/0027-remove-element) |
@@ -107,6 +108,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anamika1513/Leet_code/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anamika1513/Leet_code/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Anamika1513/Leet_code/tree/master/0042-trapping-rain-water) |
@@ -282,4 +284,8 @@ To improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anamika1513/Leet_code/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Anamika1513/Leet_code/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
