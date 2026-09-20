@@ -131,6 +131,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0412-fizz-buzz](https://github.com/Anamika1513/Leet_code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Anamika1513/Leet_code/tree/master/0415-add-strings) |
 | [0771-jewels-and-stones](https://github.com/Anamika1513/Leet_code/tree/master/0771-jewels-and-stones) |
+| [3498-reverse-degree-of-a-string](https://github.com/Anamika1513/Leet_code/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -173,6 +174,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1688-count-of-matches-in-tournament](https://github.com/Anamika1513/Leet_code/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Anamika1513/Leet_code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anamika1513/Leet_code/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/Anamika1513/Leet_code/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
