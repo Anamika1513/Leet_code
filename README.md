@@ -128,6 +128,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anamika1513/Leet_code/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/Anamika1513/Leet_code/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/Anamika1513/Leet_code/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Anamika1513/Leet_code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anamika1513/Leet_code/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Anamika1513/Leet_code/tree/master/0412-fizz-buzz) |
@@ -294,4 +295,28 @@ To improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anamika1513/Leet_code/tree/master/0011-container-with-most-water) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Anamika1513/Leet_code/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Anamika1513/Leet_code/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Anamika1513/Leet_code/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Anamika1513/Leet_code/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Anamika1513/Leet_code/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Anamika1513/Leet_code/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
