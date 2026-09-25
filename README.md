@@ -319,4 +319,8 @@ To improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Anamika1513/Leet_code/tree/master/0214-shortest-palindrome) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Anamika1513/Leet_code/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
