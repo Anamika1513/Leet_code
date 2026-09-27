@@ -60,6 +60,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0628-maximum-product-of-three-numbers](https://github.com/Anamika1513/Leet_code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Anamika1513/Leet_code/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Anamika1513/Leet_code/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Anamika1513/Leet_code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Anamika1513/Leet_code/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/Anamika1513/Leet_code/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Anamika1513/Leet_code/tree/master/0905-sort-array-by-parity) |
@@ -211,6 +212,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0268-missing-number](https://github.com/Anamika1513/Leet_code/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Anamika1513/Leet_code/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Anamika1513/Leet_code/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Anamika1513/Leet_code/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -327,4 +329,8 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0175-combine-two-tables](https://github.com/Anamika1513/Leet_code/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Anamika1513/Leet_code/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Anamika1513/Leet_code/tree/master/0177-nth-highest-salary) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Anamika1513/Leet_code/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
