@@ -74,6 +74,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1480-running-sum-of-1d-array](https://github.com/Anamika1513/Leet_code/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Anamika1513/Leet_code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/Anamika1513/Leet_code/tree/master/1512-number-of-good-pairs) |
+| [1572-matrix-diagonal-sum](https://github.com/Anamika1513/Leet_code/tree/master/1572-matrix-diagonal-sum) |
 | [1920-build-array-from-permutation](https://github.com/Anamika1513/Leet_code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anamika1513/Leet_code/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -288,6 +289,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0059-spiral-matrix-ii](https://github.com/Anamika1513/Leet_code/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Anamika1513/Leet_code/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/Anamika1513/Leet_code/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Anamika1513/Leet_code/tree/master/1572-matrix-diagonal-sum) |
 ## Enumeration
 |  |
 | ------- |
