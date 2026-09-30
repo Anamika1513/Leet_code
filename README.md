@@ -54,6 +54,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0238-product-of-array-except-self](https://github.com/Anamika1513/Leet_code/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Anamika1513/Leet_code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Anamika1513/Leet_code/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/Anamika1513/Leet_code/tree/master/0289-game-of-life) |
 | [0414-third-maximum-number](https://github.com/Anamika1513/Leet_code/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anamika1513/Leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Anamika1513/Leet_code/tree/master/0485-max-consecutive-ones) |
@@ -179,6 +180,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0054-spiral-matrix](https://github.com/Anamika1513/Leet_code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Anamika1513/Leet_code/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/Anamika1513/Leet_code/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/Anamika1513/Leet_code/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/Anamika1513/Leet_code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Anamika1513/Leet_code/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/Anamika1513/Leet_code/tree/master/0867-transpose-matrix) |
@@ -288,6 +290,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0054-spiral-matrix](https://github.com/Anamika1513/Leet_code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Anamika1513/Leet_code/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Anamika1513/Leet_code/tree/master/0074-search-a-2d-matrix) |
+| [0289-game-of-life](https://github.com/Anamika1513/Leet_code/tree/master/0289-game-of-life) |
 | [0867-transpose-matrix](https://github.com/Anamika1513/Leet_code/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Anamika1513/Leet_code/tree/master/1572-matrix-diagonal-sum) |
 ## Enumeration
