@@ -78,6 +78,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1572-matrix-diagonal-sum](https://github.com/Anamika1513/Leet_code/tree/master/1572-matrix-diagonal-sum) |
 | [1920-build-array-from-permutation](https://github.com/Anamika1513/Leet_code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anamika1513/Leet_code/tree/master/1929-concatenation-of-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Anamika1513/Leet_code/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -297,6 +298,7 @@ To improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Anamika1513/Leet_code/tree/master/1925-count-square-sum-triples) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Anamika1513/Leet_code/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Trie
 |  |
 | ------- |
