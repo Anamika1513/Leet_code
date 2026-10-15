@@ -139,6 +139,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0214-shortest-palindrome](https://github.com/Anamika1513/Leet_code/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Anamika1513/Leet_code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anamika1513/Leet_code/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anamika1513/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Anamika1513/Leet_code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Anamika1513/Leet_code/tree/master/0415-add-strings) |
 | [0771-jewels-and-stones](https://github.com/Anamika1513/Leet_code/tree/master/0771-jewels-and-stones) |
@@ -172,6 +173,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0217-contains-duplicate](https://github.com/Anamika1513/Leet_code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anamika1513/Leet_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anamika1513/Leet_code/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anamika1513/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anamika1513/Leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Anamika1513/Leet_code/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/Anamika1513/Leet_code/tree/master/1512-number-of-good-pairs) |
@@ -281,6 +283,7 @@ To improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anamika1513/Leet_code/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anamika1513/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/Anamika1513/Leet_code/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Anamika1513/Leet_code/tree/master/1051-height-checker) |
 | [1512-number-of-good-pairs](https://github.com/Anamika1513/Leet_code/tree/master/1512-number-of-good-pairs) |
@@ -357,4 +360,8 @@ To improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Anamika1513/Leet_code/tree/master/1051-height-checker) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Anamika1513/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
