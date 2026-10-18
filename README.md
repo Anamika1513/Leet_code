@@ -49,6 +49,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Anamika1513/Leet_code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Anamika1513/Leet_code/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Anamika1513/Leet_code/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anamika1513/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Anamika1513/Leet_code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Anamika1513/Leet_code/tree/master/0238-product-of-array-except-self) |
@@ -98,6 +99,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0070-climbing-stairs](https://github.com/Anamika1513/Leet_code/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Anamika1513/Leet_code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Anamika1513/Leet_code/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Anamika1513/Leet_code/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Anamika1513/Leet_code/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Anamika1513/Leet_code/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Anamika1513/Leet_code/tree/master/0263-ugly-number) |
@@ -243,6 +245,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Anamika1513/Leet_code/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Anamika1513/Leet_code/tree/master/0258-add-digits) |
 ## Dynamic Programming
 |  |
@@ -300,6 +303,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Anamika1513/Leet_code/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/Anamika1513/Leet_code/tree/master/1925-count-square-sum-triples) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anamika1513/Leet_code/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Trie
@@ -364,4 +368,16 @@ To improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Anamika1513/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Anamika1513/Leet_code/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Anamika1513/Leet_code/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Anamika1513/Leet_code/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
