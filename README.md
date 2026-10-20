@@ -127,6 +127,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0042-trapping-rain-water](https://github.com/Anamika1513/Leet_code/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Anamika1513/Leet_code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Anamika1513/Leet_code/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Anamika1513/Leet_code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Anamika1513/Leet_code/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Anamika1513/Leet_code/tree/master/0283-move-zeroes) |
@@ -170,6 +171,7 @@ To improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anamika1513/Leet_code/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/Anamika1513/Leet_code/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Anamika1513/Leet_code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Anamika1513/Leet_code/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Anamika1513/Leet_code/tree/master/0205-isomorphic-strings) |
@@ -385,6 +387,11 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Anamika1513/Leet_code/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Anamika1513/Leet_code/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Anamika1513/Leet_code/tree/master/0876-middle-of-the-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Anamika1513/Leet_code/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
