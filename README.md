@@ -131,6 +131,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0202-happy-number](https://github.com/Anamika1513/Leet_code/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Anamika1513/Leet_code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Anamika1513/Leet_code/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Anamika1513/Leet_code/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Anamika1513/Leet_code/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -385,4 +386,5 @@ To improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Anamika1513/Leet_code/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Anamika1513/Leet_code/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
