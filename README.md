@@ -139,6 +139,7 @@ To improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anamika1513/Leet_code/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/Anamika1513/Leet_code/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/Anamika1513/Leet_code/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Anamika1513/Leet_code/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Anamika1513/Leet_code/tree/master/0242-valid-anagram) |
