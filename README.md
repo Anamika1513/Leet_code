@@ -135,6 +135,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0876-middle-of-the-linked-list](https://github.com/Anamika1513/Leet_code/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Anamika1513/Leet_code/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/Anamika1513/Leet_code/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -149,6 +150,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0415-add-strings](https://github.com/Anamika1513/Leet_code/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/Anamika1513/Leet_code/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Anamika1513/Leet_code/tree/master/0771-jewels-and-stones) |
+| [1768-merge-strings-alternately](https://github.com/Anamika1513/Leet_code/tree/master/1768-merge-strings-alternately) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anamika1513/Leet_code/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
