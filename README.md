@@ -147,6 +147,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0242-valid-anagram](https://github.com/Anamika1513/Leet_code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anamika1513/Leet_code/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anamika1513/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Anamika1513/Leet_code/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Anamika1513/Leet_code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Anamika1513/Leet_code/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anamika1513/Leet_code/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -165,6 +166,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0217-contains-duplicate](https://github.com/Anamika1513/Leet_code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anamika1513/Leet_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anamika1513/Leet_code/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Anamika1513/Leet_code/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Anamika1513/Leet_code/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anamika1513/Leet_code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Anamika1513/Leet_code/tree/master/0905-sort-array-by-parity) |
@@ -185,6 +187,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0242-valid-anagram](https://github.com/Anamika1513/Leet_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anamika1513/Leet_code/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anamika1513/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Anamika1513/Leet_code/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anamika1513/Leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Anamika1513/Leet_code/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/Anamika1513/Leet_code/tree/master/1512-number-of-good-pairs) |
@@ -242,6 +245,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0231-power-of-two](https://github.com/Anamika1513/Leet_code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anamika1513/Leet_code/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Anamika1513/Leet_code/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Anamika1513/Leet_code/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anamika1513/Leet_code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
