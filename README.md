@@ -142,6 +142,7 @@ To improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anamika1513/Leet_code/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Anamika1513/Leet_code/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Anamika1513/Leet_code/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Anamika1513/Leet_code/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Anamika1513/Leet_code/tree/master/0205-isomorphic-strings) |
@@ -283,6 +284,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Anamika1513/Leet_code/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anamika1513/Leet_code/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -418,4 +420,8 @@ To improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Anamika1513/Leet_code/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Anamika1513/Leet_code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
