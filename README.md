@@ -142,6 +142,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anamika1513/Leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Anamika1513/Leet_code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Anamika1513/Leet_code/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anamika1513/Leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -186,6 +187,7 @@ To improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anamika1513/Leet_code/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anamika1513/Leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Anamika1513/Leet_code/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Anamika1513/Leet_code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Anamika1513/Leet_code/tree/master/0202-happy-number) |
@@ -435,4 +437,8 @@ To improve problem-solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anamika1513/Leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anamika1513/Leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
