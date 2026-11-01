@@ -107,6 +107,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0326-power-of-three](https://github.com/Anamika1513/Leet_code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anamika1513/Leet_code/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Anamika1513/Leet_code/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Anamika1513/Leet_code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Anamika1513/Leet_code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Anamika1513/Leet_code/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Anamika1513/Leet_code/tree/master/0492-construct-the-rectangle) |
@@ -155,6 +156,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0344-reverse-string](https://github.com/Anamika1513/Leet_code/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anamika1513/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Anamika1513/Leet_code/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Anamika1513/Leet_code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Anamika1513/Leet_code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Anamika1513/Leet_code/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Anamika1513/Leet_code/tree/master/0434-number-of-segments-in-a-string) |
@@ -256,6 +258,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0268-missing-number](https://github.com/Anamika1513/Leet_code/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Anamika1513/Leet_code/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Anamika1513/Leet_code/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Anamika1513/Leet_code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anamika1513/Leet_code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
