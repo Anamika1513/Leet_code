@@ -72,6 +72,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0977-squares-of-a-sorted-array](https://github.com/Anamika1513/Leet_code/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Anamika1513/Leet_code/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Anamika1513/Leet_code/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1436-destination-city](https://github.com/Anamika1513/Leet_code/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anamika1513/Leet_code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Anamika1513/Leet_code/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Anamika1513/Leet_code/tree/master/1480-running-sum-of-1d-array) |
@@ -168,6 +169,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0709-to-lower-case](https://github.com/Anamika1513/Leet_code/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Anamika1513/Leet_code/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Anamika1513/Leet_code/tree/master/0796-rotate-string) |
+| [1436-destination-city](https://github.com/Anamika1513/Leet_code/tree/master/1436-destination-city) |
 | [1768-merge-strings-alternately](https://github.com/Anamika1513/Leet_code/tree/master/1768-merge-strings-alternately) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anamika1513/Leet_code/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
@@ -208,6 +210,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0389-find-the-difference](https://github.com/Anamika1513/Leet_code/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anamika1513/Leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Anamika1513/Leet_code/tree/master/0771-jewels-and-stones) |
+| [1436-destination-city](https://github.com/Anamika1513/Leet_code/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/Anamika1513/Leet_code/tree/master/1512-number-of-good-pairs) |
 ## Simulation
 |  |
