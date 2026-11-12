@@ -121,6 +121,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1688-count-of-matches-in-tournament](https://github.com/Anamika1513/Leet_code/tree/master/1688-count-of-matches-in-tournament) |
 | [1925-count-square-sum-triples](https://github.com/Anamika1513/Leet_code/tree/master/1925-count-square-sum-triples) |
 | [2235-add-two-integers](https://github.com/Anamika1513/Leet_code/tree/master/2235-add-two-integers) |
+| [3945-digit-frequency-score](https://github.com/Anamika1513/Leet_code/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -212,6 +213,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0771-jewels-and-stones](https://github.com/Anamika1513/Leet_code/tree/master/0771-jewels-and-stones) |
 | [1436-destination-city](https://github.com/Anamika1513/Leet_code/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/Anamika1513/Leet_code/tree/master/1512-number-of-good-pairs) |
+| [3945-digit-frequency-score](https://github.com/Anamika1513/Leet_code/tree/master/3945-digit-frequency-score) |
 ## Simulation
 |  |
 | ------- |
