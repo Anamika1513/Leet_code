@@ -121,6 +121,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1688-count-of-matches-in-tournament](https://github.com/Anamika1513/Leet_code/tree/master/1688-count-of-matches-in-tournament) |
 | [1925-count-square-sum-triples](https://github.com/Anamika1513/Leet_code/tree/master/1925-count-square-sum-triples) |
 | [2235-add-two-integers](https://github.com/Anamika1513/Leet_code/tree/master/2235-add-two-integers) |
+| [2652-sum-multiples](https://github.com/Anamika1513/Leet_code/tree/master/2652-sum-multiples) |
 | [3945-digit-frequency-score](https://github.com/Anamika1513/Leet_code/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
