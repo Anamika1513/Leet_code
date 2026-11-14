@@ -117,6 +117,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0509-fibonacci-number](https://github.com/Anamika1513/Leet_code/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anamika1513/Leet_code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anamika1513/Leet_code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/Anamika1513/Leet_code/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Anamika1513/Leet_code/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/Anamika1513/Leet_code/tree/master/1688-count-of-matches-in-tournament) |
 | [1925-count-square-sum-triples](https://github.com/Anamika1513/Leet_code/tree/master/1925-count-square-sum-triples) |
@@ -273,6 +274,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0389-find-the-difference](https://github.com/Anamika1513/Leet_code/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Anamika1513/Leet_code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anamika1513/Leet_code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/Anamika1513/Leet_code/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
