@@ -79,6 +79,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Anamika1513/Leet_code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/Anamika1513/Leet_code/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/Anamika1513/Leet_code/tree/master/1572-matrix-diagonal-sum) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Anamika1513/Leet_code/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/Anamika1513/Leet_code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anamika1513/Leet_code/tree/master/1929-concatenation-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anamika1513/Leet_code/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -120,6 +121,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1486-xor-operation-in-an-array](https://github.com/Anamika1513/Leet_code/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Anamika1513/Leet_code/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/Anamika1513/Leet_code/tree/master/1688-count-of-matches-in-tournament) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Anamika1513/Leet_code/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1925-count-square-sum-triples](https://github.com/Anamika1513/Leet_code/tree/master/1925-count-square-sum-triples) |
 | [2235-add-two-integers](https://github.com/Anamika1513/Leet_code/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Anamika1513/Leet_code/tree/master/2413-smallest-even-multiple) |
