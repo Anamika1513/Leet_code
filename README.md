@@ -128,6 +128,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2413-smallest-even-multiple](https://github.com/Anamika1513/Leet_code/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Anamika1513/Leet_code/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Anamika1513/Leet_code/tree/master/2652-sum-multiples) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Anamika1513/Leet_code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3945-digit-frequency-score](https://github.com/Anamika1513/Leet_code/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
@@ -297,6 +298,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0204-count-primes](https://github.com/Anamika1513/Leet_code/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Anamika1513/Leet_code/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/Anamika1513/Leet_code/tree/master/2413-smallest-even-multiple) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Anamika1513/Leet_code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
