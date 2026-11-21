@@ -129,6 +129,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Anamika1513/Leet_code/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Anamika1513/Leet_code/tree/master/2652-sum-multiples) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anamika1513/Leet_code/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Anamika1513/Leet_code/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/Anamika1513/Leet_code/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
