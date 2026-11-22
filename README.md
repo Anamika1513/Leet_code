@@ -82,6 +82,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1822-sign-of-the-product-of-an-array](https://github.com/Anamika1513/Leet_code/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/Anamika1513/Leet_code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anamika1513/Leet_code/tree/master/1929-concatenation-of-array) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Anamika1513/Leet_code/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anamika1513/Leet_code/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Prefix Sum
 |  |
@@ -126,6 +127,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1925-count-square-sum-triples](https://github.com/Anamika1513/Leet_code/tree/master/1925-count-square-sum-triples) |
 | [2235-add-two-integers](https://github.com/Anamika1513/Leet_code/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Anamika1513/Leet_code/tree/master/2413-smallest-even-multiple) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Anamika1513/Leet_code/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Anamika1513/Leet_code/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Anamika1513/Leet_code/tree/master/2652-sum-multiples) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anamika1513/Leet_code/tree/master/3658-gcd-of-odd-and-even-sums) |
