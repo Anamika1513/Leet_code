@@ -74,6 +74,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anamika1513/Leet_code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Anamika1513/Leet_code/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1436-destination-city](https://github.com/Anamika1513/Leet_code/tree/master/1436-destination-city) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Anamika1513/Leet_code/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anamika1513/Leet_code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Anamika1513/Leet_code/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Anamika1513/Leet_code/tree/master/1480-running-sum-of-1d-array) |
