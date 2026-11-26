@@ -84,6 +84,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1822-sign-of-the-product-of-an-array](https://github.com/Anamika1513/Leet_code/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/Anamika1513/Leet_code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anamika1513/Leet_code/tree/master/1929-concatenation-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Anamika1513/Leet_code/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Anamika1513/Leet_code/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anamika1513/Leet_code/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Prefix Sum
@@ -241,6 +242,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [1688-count-of-matches-in-tournament](https://github.com/Anamika1513/Leet_code/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Anamika1513/Leet_code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anamika1513/Leet_code/tree/master/1929-concatenation-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Anamika1513/Leet_code/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anamika1513/Leet_code/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
@@ -361,6 +363,7 @@ To improve problem-solving skills and prepare for coding interviews.
 | [0289-game-of-life](https://github.com/Anamika1513/Leet_code/tree/master/0289-game-of-life) |
 | [0867-transpose-matrix](https://github.com/Anamika1513/Leet_code/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Anamika1513/Leet_code/tree/master/1572-matrix-diagonal-sum) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Anamika1513/Leet_code/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Enumeration
 |  |
 | ------- |
